@@ -1,3 +1,6 @@
 [submodule "store"]
 	path = store
 	url = https://github.com/paulohenr96/storeangular
+[submodule "backend"]
+	path = backend
+	url = https://github.com/paulohenr96/lojabackend
